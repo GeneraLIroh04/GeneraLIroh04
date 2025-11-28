@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/zaaheerr/zaaheerr/master/assets/wave-header.svg" width="100%">
 
 <h1 align="center">
-  Hi there, I'm <span style="color:#4FC3F7;">Zaheer</span> 👋
+  Hi there, I'm <span style="color:#4FC3F7;">Smita (pronounced "Smit" , and I am a man)</span> 👋
 </h1>
 
 <p align="center">
