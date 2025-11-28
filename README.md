@@ -46,15 +46,4 @@
 
 ---
 
-## 🎯 About Me
-```yaml
-Name: Zaheer
-Interests:
-  - Machine Learning
-  - Deep Learning
-  - Probability & Statistics
-  - AI Engineering
-Currently_Learning: 
-  - Advanced Neural Networks
-  - Model Optimization
-Fun_Fact: "I break models more often than I train them 😄"
+
